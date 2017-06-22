@@ -1,0 +1,52 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+background-image: url("images/background.jpg");
+margin: 1px 1px 1px 1px;
+background-repeat: no-repeat;
+background-position: center;
+padding: 40px;
+font-family: 'Amatic SC', cursive;
+font-size: 45px;
+text-align: center;
+letter-spacing: 0.4em;
+color: white;
+}
+
+#description {
+  font: italic normal 150% 'Times New Roman', Times, serif;
+  font-style: normal;
+  text-align: center;
+  letter-spacing: 0.02em;
+  margin: 50px 200px 50px 200px;
+}
+
+#content {
+  align-content: center;
+  margin-left: auto; 
+}
+
+.line {
+    width: 800px;
+    margin-top: 30px;
+}
+
+footer {
+  background-image: url("images/background.jpg"); 
+  font: italic normal 150% 'Times New Roman', Times, serif;
+  font-style: normal;
+  text-align: center;
+  letter-spacing: 0.2em;
+  margin: 40px 1px 1px 1px;
+  color: white;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 10px; 
+}
+
